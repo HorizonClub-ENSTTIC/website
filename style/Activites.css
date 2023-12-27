@@ -135,7 +135,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 360px;
-  background-image: url("images/334953179_1520447098480107_7085576988118088385_n.jpg?rand=2b2b");
+  background-image: url("../images/334953179_1520447098480107_7085576988118088385_n.jpg?rand=2b2b");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
@@ -212,7 +212,7 @@
 
 .u-section-2 .u-image-2 {
   min-height: 360px;
-  background-image: url("images/9141336_185.png");
+  background-image: url("../images/9141336_185.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -227,7 +227,7 @@
 
 .u-section-2 .u-image-3 {
   min-height: 360px;
-  background-image: url("images/4.PNG");
+  background-image: url("../images/4.PNG");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
